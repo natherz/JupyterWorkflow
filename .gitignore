@@ -6,3 +6,4 @@ Fremont.csv
 
 # cache files
 __pycache__/
+.cache/
