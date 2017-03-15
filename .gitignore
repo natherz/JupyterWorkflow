@@ -3,3 +3,6 @@ Fremont.csv
 
 # notebook checkpoints
 .ipynb_checkpoints
+
+# cache files
+__pycache__/
